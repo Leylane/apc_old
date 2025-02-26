@@ -4,7 +4,7 @@ int main ()  {
 
   int numero1;
   int numero2;
-
+//int teste
   printf("Entre com o primeiro número: ");
   int deu_certo = scanf("%i", &numero1);
 
